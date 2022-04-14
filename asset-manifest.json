@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lnoks-tt/static/css/main.795dea43.css",
+    "main.js": "/lnoks-tt/static/js/main.59476d5d.js",
+    "index.html": "/lnoks-tt/index.html",
+    "main.795dea43.css.map": "/lnoks-tt/static/css/main.795dea43.css.map",
+    "main.59476d5d.js.map": "/lnoks-tt/static/js/main.59476d5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795dea43.css",
+    "static/js/main.59476d5d.js"
+  ]
+}
