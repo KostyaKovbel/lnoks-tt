@@ -1,0 +1,46 @@
+@import './utils/reset.scss'; 
+@import './utils/vars.scss'; 
+
+.test {
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__info {
+    margin-bottom: 20px;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  &__number {
+    padding: 5px;
+
+    font-weight: bold;
+    color: #77dcd8;
+
+    background-color: #e1f8f7;
+    border-radius: 50%;
+  }
+
+  &__example {
+    display: flex;
+  }
+
+  &__example-title {
+    display: inline;
+    color: $color-additional;
+  }
+
+  &__example-info {
+    font-weight: bold;
+  }
+
+  &__example-answer {
+    color: $color-additional;
+  }
+}

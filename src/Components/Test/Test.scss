@@ -1,0 +1,59 @@
+@import '../../utils/vars.scss';
+
+.task {
+  &__input {
+    padding: 1px 5px;
+    width: 100px;
+  
+    border-radius: 10px;
+    border: 1px solid grey;
+    outline: none;
+  
+    &:focus {
+      box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.33);
+    }
+  }
+
+  &__sentence {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+
+  &--error {
+    border-color: red;
+  }
+
+  &--correct {
+    border-color: green;
+  }
+
+  &__question {
+    color: $color-additional;
+    font-style: italic;
+  }
+
+  &__icons {
+    margin-left: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+
+  &__icon {
+    border-radius: 50%;
+    background-color: grey;
+    width: 4px;
+    height: 4px;
+
+    transition: background-color 0.3s;
+
+    &--error {
+      background-color: red;
+    }
+
+    &--correct {
+      background-color: green;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "firstPart": "Ten taniec jest",
+    "secondPart": "niż poprzedni.",
+    "task": "(piękny)",
+    "answer": "piękniejszy"
+  },
+  {
+    "id": 2,
+    "firstPart": "Mój szalik jest",
+    "secondPart": "od twojego.",
+    "task": "(drogi)",
+    "answer": "droższy"
+  },
+  {
+    "id": 3,
+    "firstPart": "Zielony plecak jest",
+    "secondPart": "od żółtego.",
+    "task": "(mały)",
+    "answer": "mniejszy"
+  },
+  {
+    "id": 4,
+    "firstPart": "Dom mojej przyjaciółki jest",
+    "secondPart": "od mojego.",
+    "task": "(duży)",
+    "answer": "większy"
+  },
+  {
+    "id": 5,
+    "firstPart": "Mój kuzyn jest",
+    "secondPart": "niż moja kuzynka.",
+    "task": "(niski)",
+    "answer": "niższy"
+  },
+  {
+    "id": 6,
+    "firstPart": "Moja sukienka jest",
+    "secondPart": "niż twoja.",
+    "task": "(ładna)",
+    "answer": "ładniejsza"
+  }
+]
